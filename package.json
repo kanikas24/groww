@@ -1,0 +1,13 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "expo": "^28.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-28.0.0.tar.gz",
+    "react-native-infinite-scroll": "^1.0.6",
+    "react-native-layout-grid": "0.0.2",
+    "utf8": "^3.0.0"
+  }
+}
